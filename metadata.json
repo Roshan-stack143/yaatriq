@@ -1,0 +1,8 @@
+{
+  "name": "YAATRIQ – AI Powered Budget Travel Brain",
+  "description": "A comprehensive AI-driven travel companion that optimizes budgets, routes, and safety while providing real-time transport comparisons and voice-enabled planning.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
